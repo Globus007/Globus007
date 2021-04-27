@@ -31,17 +31,6 @@
 <details>
   <summary>🖥 My projects: </summary>
   <br>
-  
-- [1ILLUMINATION.RU](https://1illumination.ru)
-  > Used technologies: Gulp 4, SCSS, JS <br>
-  > Github: https://github.com/Globus007/1illumination.ru
-  
-- [DEBT COUNTER](https://debt-count.herokuapp.com/)
-  > Used technologies: <br>
-  > Backend - Java 14, Spring Boot, REST <br>
-  > Frontend - Angular 9, Angular Material, SCSS, Bootstrap <br>
-  > Github: https://github.com/Globus007/debt-calculator-frontend <br>
-  > https://github.com/Globus007/debt_count
  
 - [CV](https://globus007.github.io/rsschool-cv/)
   > Github: https://github.com/Globus007/rsschool-cv
@@ -55,6 +44,22 @@
 - [virtual-piano](https://rolling-scopes-school.github.io/globus007-JSFE2021Q1/virtual-piano/)
   > Github: https://github.com/rolling-scopes-school/globus007-JSFE2021Q1
 
+- [photo-filter](https://rolling-scopes-school.github.io/globus007-JSFE2021Q1/photo-filter/)
+  > Github: https://github.com/rolling-scopes-school/globus007-JSFE2021Q1
+ 
+- [мужчинабудущего.бел](https://мужчинабудущего2021.бел)
+  > Github: https://github.com/Globus007/mb3
+
+- [1ILLUMINATION.RU](https://1illumination.ru)
+  > Used technologies: Gulp 4, SCSS, JS <br>
+  > Github: https://github.com/Globus007/1illumination.ru
+  
+- [DEBT COUNTER](https://debt-count.herokuapp.com/)
+  > Used technologies: <br>
+  > Backend - Java 14, Spring Boot, REST <br>
+  > Frontend - Angular 9, Angular Material, SCSS, Bootstrap <br>
+  > Github: https://github.com/Globus007/debt-calculator-frontend <br>
+  > https://github.com/Globus007/debt_count
 
   <br>
 </details>
